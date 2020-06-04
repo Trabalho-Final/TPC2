@@ -1,4 +1,4 @@
-# TPC2
+# TPC2-A
 Trabalho final de programação
 Membros do grupo: Ana Caetano, Anita Alexandre, Sofia Figueira. 
 
